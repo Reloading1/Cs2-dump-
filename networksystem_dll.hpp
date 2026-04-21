@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-20 23:29:47.828950300 UTC
+// 2026-04-21 03:23:19.397130200 UTC
 
 #pragma once
 
@@ -13,8 +13,9 @@ namespace cs2_dumper {
         // Enum count: 0
         namespace networksystem_dll {
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace ChangeAccessorFieldPathIndex_t {
+                constexpr std::ptrdiff_t m_Value = 0x0; // int32
             }
         }
     }

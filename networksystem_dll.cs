@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-20 23:29:47.828950300 UTC
+// 2026-04-21 03:23:19.397130200 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: networksystem.dll
@@ -7,8 +7,9 @@ namespace CS2Dumper.Schemas {
     // Enum count: 0
     public static class NetworksystemDll {
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class ChangeAccessorFieldPathIndex_t {
+            public const nint m_Value = 0x0; // int32
         }
     }
 }
