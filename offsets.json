@@ -6,7 +6,7 @@
     "dwGameEntitySystem_highestEntityIndex": 8336,
     "dwGlobalVars": 33834216,
     "dwGlowManager": 36833192,
-    "dwLocalPlayerController": 36712048,
+    "dwLocalPlayerController": 36712064,
     "dwLocalPlayerPawn": 33879600,
     "dwPlantedC4": 36902984,
     "dwPrediction": 33879360,
@@ -15,7 +15,7 @@
     "dwViewAngles": 36932968,
     "dwViewMatrix": 36868304,
     "dwViewRender": 36868840,
-    "dwWeaponC4": 36312976
+    "dwWeaponC4": 36313384
   },
   "engine2.dll": {
     "dwBuildNumber": 6343796,

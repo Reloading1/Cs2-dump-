@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-20 23:29:47.828950300 UTC
+// 2026-04-21 01:48:42.191005800 UTC
 
 #pragma once
 
@@ -16,7 +16,7 @@ namespace cs2_dumper {
             constexpr std::ptrdiff_t dwGameEntitySystem_highestEntityIndex = 0x2090;
             constexpr std::ptrdiff_t dwGlobalVars = 0x20444E8;
             constexpr std::ptrdiff_t dwGlowManager = 0x23207A8;
-            constexpr std::ptrdiff_t dwLocalPlayerController = 0x2302E70;
+            constexpr std::ptrdiff_t dwLocalPlayerController = 0x2302E80;
             constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x204F630;
             constexpr std::ptrdiff_t dwPlantedC4 = 0x2331848;
             constexpr std::ptrdiff_t dwPrediction = 0x204F540;
@@ -25,7 +25,7 @@ namespace cs2_dumper {
             constexpr std::ptrdiff_t dwViewAngles = 0x2338D68;
             constexpr std::ptrdiff_t dwViewMatrix = 0x23290D0;
             constexpr std::ptrdiff_t dwViewRender = 0x23292E8;
-            constexpr std::ptrdiff_t dwWeaponC4 = 0x22A1790;
+            constexpr std::ptrdiff_t dwWeaponC4 = 0x22A1928;
         }
         // Module: engine2.dll
         namespace engine2_dll {

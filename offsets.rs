@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-20 23:29:47.828950300 UTC
+// 2026-04-21 01:48:42.191005800 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
@@ -13,7 +13,7 @@ pub mod cs2_dumper {
             pub const dwGameEntitySystem_highestEntityIndex: usize = 0x2090;
             pub const dwGlobalVars: usize = 0x20444E8;
             pub const dwGlowManager: usize = 0x23207A8;
-            pub const dwLocalPlayerController: usize = 0x2302E70;
+            pub const dwLocalPlayerController: usize = 0x2302E80;
             pub const dwLocalPlayerPawn: usize = 0x204F630;
             pub const dwPlantedC4: usize = 0x2331848;
             pub const dwPrediction: usize = 0x204F540;
@@ -22,7 +22,7 @@ pub mod cs2_dumper {
             pub const dwViewAngles: usize = 0x2338D68;
             pub const dwViewMatrix: usize = 0x23290D0;
             pub const dwViewRender: usize = 0x23292E8;
-            pub const dwWeaponC4: usize = 0x22A1790;
+            pub const dwWeaponC4: usize = 0x22A1928;
         }
         // Module: engine2.dll
         pub mod engine2_dll {

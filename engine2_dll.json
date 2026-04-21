@@ -48,7 +48,7 @@
       },
       "CScriptComponent": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
         "parent": null
@@ -80,10 +80,10 @@
       },
       "EventAdvanceTick_t": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
-        "parent": "xL�\u000b�"
+        "parent": "xL�5�"
       },
       "EventAppShutdown_t": {
         "fields": {},
@@ -112,10 +112,10 @@
       },
       "EventClientPauseSimulate_t": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
-        "parent": "xL�\u000b�"
+        "parent": "xL�5�"
       },
       "EventClientPollInput_t": {
         "fields": {},
@@ -139,17 +139,17 @@
       },
       "EventClientPostSimulate_t": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
         "parent": "engine2"
       },
       "EventClientPreOutputParallelWithServer_t": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
-        "parent": "xL�\u000b�"
+        "parent": "xL�5�"
       },
       "EventClientPreOutput_t": {
         "fields": {},
@@ -158,7 +158,7 @@
       },
       "EventClientPreSimulate_t": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
         "parent": "engine2"
@@ -185,7 +185,7 @@
       },
       "EventClientSimulate_t": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
         "parent": "engine2"
@@ -202,7 +202,7 @@
       },
       "EventPostAdvanceTick_t": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
         "parent": "engine2"
@@ -225,7 +225,7 @@
       "EventServerAdvanceTick_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u000b�"
+        "parent": "xL�5�"
       },
       "EventServerBeginAsyncPostTickWork_t": {
         "fields": {},
@@ -234,10 +234,10 @@
       },
       "EventServerBeginSimulate_t": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
-        "parent": "xL�\u000b�"
+        "parent": "xL�5�"
       },
       "EventServerEndAsyncPostTickWork_t": {
         "fields": {},
@@ -251,7 +251,7 @@
       },
       "EventServerPollNetworking_t": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
         "parent": "engine2"
@@ -259,18 +259,18 @@
       "EventServerPostAdvanceTick_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u000b�"
+        "parent": "xL�5�"
       },
       "EventServerPostSimulate_t": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
-        "parent": "xL�\u000b�"
+        "parent": "xL�5�"
       },
       "EventServerProcessNetworking_t": {
         "fields": {
-          "": 45617664
+          "": 191
         },
         "metadata": [],
         "parent": "engine2"
@@ -286,9 +286,7 @@
         "parent": null
       },
       "EventSimulate_t": {
-        "fields": {
-          "": 1105139712
-        },
+        "fields": {},
         "metadata": [],
         "parent": null
       },
